@@ -28,36 +28,3 @@ RYCO Insight may update this privacy policy from time to time. The "Last updated
 ## Contact
 
 Questions about this privacy policy can be directed to: contact@rycoinsight.com
-
----
-
-# Personvernerklæring - Finance Matrix
-
-Sist oppdatert: 15. september 2026
-Utgiver: RYCO Insight AS
-Kontakt: contact@rycoinsight.com
-
-## Oversikt
-
-Finance Matrix ("visualen") er et egendefinert visual for Microsoft Power BI, utviklet og publisert av RYCO Insight AS. Denne erklæringen forklarer hvordan visualen behandler data.
-
-## Databehandling
-
-Visualen kjører utelukkende i Power BI-rapportens eget lerret, i det samme sandkasse-miljøet som alle andre Power BI-visualer. Den:
-
-- Sender ikke rapportdata til noen ekstern server driftet av RYCO Insight eller av tredjepart
-- Bruker ikke informasjonskapsler, nettleserlagring eller sporingsteknologi
-- Samler ikke inn telemetri, bruksstatistikk eller personopplysninger om rapportbrukere
-- Gjør ingen nettverkskall utenfor Power BIs eget vertsmiljø
-
-## Data du gir til visualen
-
-All data visualen viser kommer direkte fra Power BI-rapportens egen datamodell, slik den er konfigurert av rapportforfatteren. RYCO Insight har ingen tilgang til denne dataen, og mottar, lagrer eller behandler den ikke på noen måte, på noe tidspunkt.
-
-## Endringer i denne erklæringen
-
-RYCO Insight kan oppdatere denne personvernerklæringen fra tid til annen. Datoen "Sist oppdatert" over gjenspeiler den nyeste revisjonen.
-
-## Kontakt
-
-Spørsmål om denne personvernerklæringen kan rettes til: contact@rycoinsight.com

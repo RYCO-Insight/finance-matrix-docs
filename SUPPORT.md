@@ -19,27 +19,3 @@ Finance Matrix works in Power BI Desktop and the Power BI service, wherever cust
 ## Feedback
 
 We welcome feedback on Finance Matrix. Please reach out via the contact above.
-
----
-
-# Finance Matrix - Support (norsk)
-
-Utgiver: RYCO Insight AS
-
-## Om
-
-Finance Matrix er en konfigurerbar finansiell rapporteringsmatrise for Microsoft Power BI, bygget for resultatregnskap, balanse og kontantstrømrapportering. Den støtter egendefinerte rader, betinget formatering, flernivå kolonnehierarkier, og bilde/SVG-rendering i celler, blant annet.
-
-## Få hjelp
-
-For spørsmål, feilrapporter, eller funksjonsforespørsler, kontakt:
-
-- E-post: contact@rycoinsight.com
-
-## Kompatibilitet
-
-Finance Matrix fungerer i Power BI Desktop og Power BI-tjenesten, der egendefinerte visualer er støttet av organisasjonens tenant-innstillinger.
-
-## Tilbakemelding
-
-Vi setter pris på tilbakemeldinger på Finance Matrix. Ta gjerne kontakt via kontaktinformasjonen over.
