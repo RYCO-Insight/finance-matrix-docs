@@ -2,7 +2,7 @@
 
 Last updated: September 15, 2026
 Publisher: RYCO Insight AS
-Contact: haakon.rykkje@rycoinsight.com
+Contact: contact@rycoinsight.com
 
 ## Overview
 
@@ -27,7 +27,7 @@ RYCO Insight may update this privacy policy from time to time. The "Last updated
 
 ## Contact
 
-Questions about this privacy policy can be directed to: haakon.rykkje@rycoinsight.com
+Questions about this privacy policy can be directed to: contact@rycoinsight.com
 
 ---
 
@@ -35,7 +35,7 @@ Questions about this privacy policy can be directed to: haakon.rykkje@rycoinsigh
 
 Sist oppdatert: 15. september 2026
 Utgiver: RYCO Insight AS
-Kontakt: haakon.rykkje@rycoinsight.com
+Kontakt: contact@rycoinsight.com
 
 ## Oversikt
 
@@ -60,4 +60,4 @@ RYCO Insight kan oppdatere denne personvernerklæringen fra tid til annen. Datoe
 
 ## Kontakt
 
-Spørsmål om denne personvernerklæringen kan rettes til: haakon.rykkje@rycoinsight.com
+Spørsmål om denne personvernerklæringen kan rettes til: contact@rycoinsight.com

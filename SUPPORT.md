@@ -10,7 +10,7 @@ Finance Matrix is a configurable financial statement matrix visual for Microsoft
 
 For questions, bug reports, or feature requests, contact:
 
-- Email: haakon.rykkje@rycoinsight.com
+- Email: contact@rycoinsight.com
 
 ## Compatibility
 
@@ -34,7 +34,7 @@ Finance Matrix er en konfigurerbar finansiell rapporteringsmatrise for Microsoft
 
 For spørsmål, feilrapporter, eller funksjonsforespørsler, kontakt:
 
-- E-post: haakon.rykkje@rycoinsight.com
+- E-post: contact@rycoinsight.com
 
 ## Kompatibilitet
 
